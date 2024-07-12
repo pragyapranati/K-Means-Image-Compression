@@ -63,7 +63,7 @@ In this project, K-Means clustering is applied to the RGB values of the image pi
 
 ## 🌟 Visual Examples
 
-### Original Image
+### Original Image with 13930 unique colors
 ![image](https://github.com/user-attachments/assets/78692670-f79a-498b-821c-06127e9aead3)
 
 ![image](https://github.com/user-attachments/assets/64538ff4-02c4-46cf-ae61-f680db12da72)
