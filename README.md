@@ -76,5 +76,5 @@ In this project, K-Means clustering is applied to the RGB values of the image pi
 Contributions are welcome! Please feel free to submit a Pull Request or open an Issue for any improvements or bug fixes.
 
 ## 📜 License
-This project is licensed under the MIT License.
-```
+This project is licensed under the Apache License.
+
