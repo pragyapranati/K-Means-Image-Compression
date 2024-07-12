@@ -67,10 +67,15 @@ In this project, K-Means clustering is applied to the RGB values of the image pi
 ## 🌟 Visual Examples
 
 ### Original Image
-![Original Image](images/original_image.png)
+![image](https://github.com/user-attachments/assets/78692670-f79a-498b-821c-06127e9aead3)
 
-### Compressed Image with 16 Colors
-![Compressed Image](images/compressed_image.png)
+![image](https://github.com/user-attachments/assets/64538ff4-02c4-46cf-ae61-f680db12da72)
+
+
+### Compressed Image with 20 Colors
+![image](https://github.com/user-attachments/assets/4ff820bf-2568-46a3-a535-4c963d5a2ec9)
+![image](https://github.com/user-attachments/assets/9b7f1f79-4d29-4952-8dc2-24c5af887faa)
+
 
 ## 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request or open an Issue for any improvements or bug fixes.
